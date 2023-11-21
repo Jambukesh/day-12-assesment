@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\days\day 12\oops part 1\oops part 1\bin\Debug\oops part 1.exe.config
+D:\mphasis\problem statement\days\day 12\oops part 1\oops part 1\bin\Debug\oops part 1.exe
+D:\mphasis\problem statement\days\day 12\oops part 1\oops part 1\bin\Debug\oops part 1.pdb
+D:\mphasis\problem statement\days\day 12\oops part 1\oops part 1\obj\Debug\oops part 1.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day 12\oops part 1\oops part 1\obj\Debug\oops part 1.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day 12\oops part 1\oops part 1\obj\Debug\oops part 1.exe
+D:\mphasis\problem statement\days\day 12\oops part 1\oops part 1\obj\Debug\oops part 1.pdb
